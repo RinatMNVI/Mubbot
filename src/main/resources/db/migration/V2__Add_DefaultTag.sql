@@ -1,0 +1,1 @@
+insert into hibernate_sequence (next_val) values (1);
