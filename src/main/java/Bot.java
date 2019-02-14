@@ -58,6 +58,7 @@ public class Bot extends TelegramLongPollingBot{
     }
 
     public String getBotToken() {
+        System.out.println(1111);
         return BotConfig.BOT_TOKEN;
     }
 
